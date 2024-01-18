@@ -1,1 +1,1 @@
-Works in almost any game, this method is discovered and depends solely on your signature and cheat. Exploits the whitelisted d3dGearLoad64.dll vulnerability which injects the DLL into all running processes.
+It works in almost any game, this method is detected and depends solely on your signature and cheat. Exploits the whitelisted d3dGearLoad64.dll vulnerability, which DLL d3dGear64.dll into all running processes.
