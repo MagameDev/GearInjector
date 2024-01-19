@@ -52,7 +52,3 @@ int main(int argc, char* argv[])
 
     return Utils::SetSystemTime(oSystemTime);
 }
-
-// My discord: magamed05
-// My discord: magamed05
-// My discord: magamed05
