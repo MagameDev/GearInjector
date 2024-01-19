@@ -49,7 +49,3 @@ namespace Utils {
         }
     }
 }
-
-// My discord: magamed05
-// My discord: magamed05
-// My discord: magamed05
